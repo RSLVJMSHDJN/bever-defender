@@ -1,0 +1,16 @@
+.hero img {
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.hero p {
+    font-size: 24px;
+    color: red;
+    text-decoration: underline;
+}
+
+.mission p {
+    font-size: 24px;
+    color: red;
+    text-decoration: underline;
+}
