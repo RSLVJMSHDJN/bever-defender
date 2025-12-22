@@ -1,8 +1,7 @@
 img {
     border: 2px solid blue;
     border-radius: 10px;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+/* <<<<<<< Updated upstream */
 }
 
 .hero p {
@@ -12,17 +11,12 @@ img {
 }
 
 .mission p {
-=======
-=======
->>>>>>> Stashed changes
+/* ======= */
 
 }
 
 p {
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+/* >>>>>>> Stashed changes */
     font-size: 24px;
     color: red;
     text-decoration: underline;
